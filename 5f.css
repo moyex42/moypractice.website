@@ -1,0 +1,25 @@
+     p {
+        font-family: Arial;
+        margin-bottom: 0px;
+        margin-top: 10px;
+      }
+    
+      .one {
+    margin-top: 0px;
+      }
+    
+      .two {
+        color:green;
+      }
+    
+      .three {
+        color:grey;
+      }
+    
+    strong {
+    font-size: 30px;
+    }
+    
+    span {
+      color: red;
+    }

@@ -1,0 +1,35 @@
+      p {
+      font-family: Verdana;
+      margin-top: 0px;
+      }
+  
+      .one {
+      font-weight: bold;
+      font-size: 18px;
+      margin-bottom:3px;
+      }
+  
+      .two {
+        margin-bottom: 18px;
+        color:rgb(100 100 100);
+      }
+  
+      .three {
+        margin-bottom: 18px;
+        width:300px;
+        line-height: 20px;
+      }
+  
+      .four {
+        margin-top: 20px;
+        background-color: green;
+        color:white;
+        width: 115px;
+        text-align: center;
+        font-size: 14px;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        border-radius: 6px;
+        cursor:pointer;
+       } 
+  

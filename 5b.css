@@ -1,0 +1,12 @@
+     .big {
+        font-family: Arial;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      
+      .sale {
+        font-family: Arial;
+        color:rgb(233, 79, 8);
+        margin-top: 0px;
+        font-style: italic;
+      }

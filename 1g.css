@@ -1,0 +1,71 @@
+a {
+  color:rgb(0, 113, 133);
+  font-size: 20px;
+}
+
+a:hover {
+color:rgb(165, 101, 42);
+}
+
+
+.nike {
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.stock {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.free {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.Add {
+  background-color:rgb(255, 216, 20) ;
+ color: rgb(0, 0, 0);
+ height: 32px;
+ width: 111px;
+ cursor: pointer;
+ border-radius: 12px;
+ font-weight: bold;
+ border: none;
+ font-size: 15px;
+ margin-right: 8px;
+ transition: opacity o.15s,
+ background-color o.15s;
+}
+.Add:hover {
+  background-color: rgb(255, 196, 0);
+}
+
+.Add:active {
+opacity: 0.5;
+}
+
+
+.Buy {
+ background-color: rgb(224, 164, 28);
+ color: rgb(0, 0, 0);
+ height: 32px;
+ width: 105px;
+ border: none;
+ border-radius: 12px;
+ font-weight: bold;
+ font-size: 15px;
+ cursor: pointer;
+ transition: background-color 0.15s,
+ opacity 0.15s;
+}
+
+.Buy:hover {
+  background-color: rgb(245, 147, 19);
+}
+
+
+.Buy:active {
+  opacity: 0.5;
+}
